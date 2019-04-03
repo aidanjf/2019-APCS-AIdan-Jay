@@ -1,0 +1,9 @@
+4
+Toyota Camry
+21 28 120000
+Infiniti G35X
+18 21 85000
+Mini Cooper S
+15 26 10000
+Bentley Continental
+20 18 50000
